@@ -8,6 +8,6 @@
     "mongoose": "^8.2.2"
   },
   "scripts": {
-    "start": "node mongo.js"
+    "start": "node server.js"
   }
 }
